@@ -6,10 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="mailto:uligilio76@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=uligilio76@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo">
   </a>
-  <img src="https://img.shields.io/badge/Yeste,_España-4f8cff?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación">
+  <a href="https://maps.app.goo.gl/JGwjH99DVjvR3cRF7" target="_blank">
+    <img src="https://img.shields.io/badge/Yeste,_Albacete-4f8cff?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación">
+  </a>
+</p>
+
+<p align="center">
+  <sub>uligilio76@gmail.com</sub>
 </p>
 
 ---
@@ -108,5 +114,5 @@ de incidencias de hardware y software.
 <p align="center">
   <sub>📬 Busco mi primera oportunidad como desarrollador junior.<br>
   Si crees que encajo en tu equipo, escríbeme a
-  <a href="mailto:uligilio76@gmail.com">uligilio76@gmail.com</a></sub>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=uligilio76@gmail.com">uligilio76@gmail.com</a></sub>
 </p>
