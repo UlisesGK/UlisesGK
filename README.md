@@ -102,15 +102,6 @@ de incidencias de hardware y software.
 
 ---
 
-### Estadísticas
-
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=UlisesGK&show_icons=true&hide_border=true&theme=tokyonight" alt="Estadísticas de GitHub">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UlisesGK&layout=compact&hide_border=true&theme=tokyonight" alt="Lenguajes más usados">
-</p>
-
----
-
 <p align="center">
   <sub>📬 Busco mi primera oportunidad como desarrollador junior.<br>
   Si crees que encajo en tu equipo, escríbeme a
