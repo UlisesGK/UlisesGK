@@ -19,18 +19,6 @@
   <sub>uligilio76@gmail.com</sub>
 </p>
 
-```text
-$ whoami
-ulises-gilio-kreiff
-
-$ cat perfil.txt
-rol        : Analista SOC Junior (busco puesto N1)
-experiencia: SOC real (prácticas) · gestión de incidentes en DFIR-IRIS
-lab propio : Wazuh + Sysmon + Kali + MITRE ATT&CK
-código     : Python y Java para automatizar tareas del equipo
-idiomas    : Español (nativo) · Inglés (C1) · Alemán (básico)
-```
-
 ---
 
 ### Sobre mí
@@ -43,6 +31,8 @@ administrando equipos y redes (SMR + prácticas FCT de técnico). Esa base me ay
 qué está pasando en una máquina cuando salta una alerta.
 
 Busco mi primer puesto como **analista SOC N1**, con disponibilidad para **turnos 24/7**.
+
+🗣️ Español (nativo) · Inglés (C1) · Alemán (básico)
 
 ---
 
@@ -68,7 +58,7 @@ investigación de eventos y redacción de informes de incidente.
 
 **💻 Programación:** Python y Java para automatizar tareas, SQL, Git y GitHub.
 
-**🖧 Sistemas y redes:** Windows y Linux, redes TCP/IP, virtualización con VirtualBox,
+**🌐 Sistemas y redes:** Windows y Linux, redes TCP/IP, virtualización con VirtualBox,
 montaje y mantenimiento de equipos, resolución de incidencias.
 
 ---
