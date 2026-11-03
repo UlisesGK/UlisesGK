@@ -56,18 +56,18 @@ Busco mi primer puesto como **analista SOC N1**, con disponibilidad para **turno
 **🛡️ Seguridad:** Wazuh (SIEM), DFIR-IRIS, Sysmon, MITRE ATT&CK, triaje de alertas,
 investigación de eventos y redacción de informes de incidente.
 
-**💻 Programación:** Python y Java para automatizar tareas, SQL, Git y GitHub.
+**💻 Programación:** Python y Java, PowerShell (básico) para automatizar tareas, SQL, Git y GitHub.
 
-**🌐 Sistemas y redes:** Windows y Linux, redes TCP/IP, virtualización con VirtualBox,
+**🌐 Sistemas y redes:** Windows y Linux, Microsoft 365, redes TCP/IP, virtualización con VirtualBox,
 montaje y mantenimiento de equipos, resolución de incidencias.
 
 ---
 
 ### Experiencia
 
-#### 🛡️ Analista SOC (prácticas) — Ibersya · *Sep 2026 — Ene 2027*
+#### 🛡️ Analista SOC (prácticas) — Ibersya · *Sep 2026 — Actualidad*
 
-- Gestión de incidentes en **DFIR-IRIS**
+- Triaje de alertas y gestión de incidentes en **DFIR-IRIS**
 - Optimización del **veredicto automático por IA** en Python: menos coste, mismo resultado
 - Integración de **Claude** junto a **DeepSeek** en ese veredicto
 
@@ -107,6 +107,19 @@ equipo y ritmo de temporada alta.
 
 `Wazuh` `Sysmon` `Kali Linux` `Windows 11` `MITRE ATT&CK`
 
+#### [🔐 FisioAgenda — Gestión de una clínica con login seguro](https://github.com/UlisesGK/Proyecto-FisioAgenda)
+
+> Proyecto Intermodular de DAM: aplicación de escritorio en Java para gestionar pacientes,
+> citas e historial clínico de una clínica de fisioterapia.
+
+- **Contraseñas cifradas con PBKDF2-HMAC-SHA256** (600 000 iteraciones y sal aleatoria):
+  nunca se guarda la contraseña, solo su hash
+- **Bloqueo temporal de la cuenta tras 5 intentos fallidos** y cierre de sesión por inactividad
+- **Tres roles con permisos distintos**: Administrador, Fisioterapeuta y Recepción
+- **Validación de datos** (DNI/NIE, teléfono, email) y **pruebas automáticas con JUnit 5**
+
+`Java 17` `Swing` `SQLite` `JDBC` `PBKDF2` `JUnit 5` `Maven`
+
 #### [🔧 Gestor de Taller Informático](https://github.com/UlisesGK/Gestor-Taller-IT)
 
 > Aplicación de escritorio en Java para gestionar un taller de reparación de equipos:
@@ -132,8 +145,8 @@ equipo y ritmo de temporada alta.
 | Periodo | |
 |---|---|
 | **En preparación** | CompTIA Security+ |
-| **Feb 2025 — Actualidad** | Desarrollo de Aplicaciones Multiplataforma (DAM) |
-| **Jun 2024 — Oct 2024** | Técnico de Sistemas Microinformáticos — *prácticas FCT* |
+| **Feb 2025 — Ene 2027** | Desarrollo de Aplicaciones Multiplataforma (DAM) |
+| **Sep 2024 — Ene 2025** | Técnico de Sistemas Microinformáticos — *prácticas FCT* |
 | **Jun 2023 — Ene 2025** | Sistemas Microinformáticos y Redes (SMR) |
 
 ---
