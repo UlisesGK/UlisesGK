@@ -112,6 +112,15 @@ equipo y ritmo de temporada alta.
 > Proyecto Intermodular de DAM: aplicación de escritorio en Java para gestionar pacientes,
 > citas e historial clínico de una clínica de fisioterapia.
 
+<a href="https://github.com/UlisesGK/Proyecto-FisioAgenda">
+  <img src="https://raw.githubusercontent.com/UlisesGK/Proyecto-FisioAgenda/main/docs/capturas/03_inicio_admin.png" alt="Panel de inicio de FisioAgenda" width="620">
+</a>
+
+<p>
+  <img src="https://raw.githubusercontent.com/UlisesGK/Proyecto-FisioAgenda/main/docs/capturas/01_login.png" alt="Inicio de sesión de FisioAgenda" width="305">
+  <img src="https://raw.githubusercontent.com/UlisesGK/Proyecto-FisioAgenda/main/docs/capturas/08_historial.png" alt="Historial clínico con evolución del dolor (EVA)" width="305">
+</p>
+
 - **Contraseñas cifradas con PBKDF2-HMAC-SHA256** (600 000 iteraciones y sal aleatoria):
   nunca se guarda la contraseña, solo su hash
 - **Bloqueo temporal de la cuenta tras 5 intentos fallidos** y cierre de sesión por inactividad
